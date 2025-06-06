@@ -9,3 +9,7 @@ func Goodnight() {
 func GoodnightJapanese() {
 	fmt.Println("おやすみなさい from greet!")
 }
+
+func AnotherGoodnightJapanese() {
+	fmt.Println(jap)
+}
